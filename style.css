@@ -98,7 +98,7 @@ i.fa:hover {
 
 .portfolio {
   position: absolute;
-  top: 20%;
+  bottom: 70%;
   left: 40%;
   background: rgb(59, 8, 59);
   opacity: 0.8;
@@ -107,9 +107,9 @@ i.fa:hover {
   border: 3px solid black;
   border-radius: 10px;
   text-align: center;
-  z-index: -1;
+  
 }
-.info {
+/* .info {
   position: absolute;
   top: 50%;
   left: 60%;
@@ -120,7 +120,7 @@ i.fa:hover {
   border: 3px solid black;
   border-radius: 10px;
   text-align: center;
-}
+} */
 
 
 /* .info a::after {
