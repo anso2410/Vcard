@@ -1,5 +1,5 @@
 # Vcard
-#### Vcard realise as part of the training Becode .org
+#### Vcard realise as part of the  Becode training 
 Liège, Belgique 
 Mai 2020
 
